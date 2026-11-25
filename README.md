@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Evy 👋
 
-<!--
-**Evy7208/Evy7208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BSc Bioinformatics (HBO Bio-informatica)** student at **Hogeschool Leiden** (Netherlands), focusing on programming and command-line workflows for medical and clinical genomics.
 
-Here are some ideas to get you started:
+- 🔭 **Currently learning:** Python, Linux (Bash), HTML, CSS, and foundational molecular biology
+- 🧬 **Research interests:** Human genetics, oncology, clinical diagnostics, and biomedical web tools
+- 🎯 **Next big goal:** Securing a 6-month medical bioinformatics research internship in the UK (Warwick / Birmingham)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Current Tech Stack
+- **Languages & Scripting:** Python, Bash, HTML5, CSS3
+- **OS & Tools:** Linux, Git, GitHub
+
+#### 📂 Featured Projects
+*(Currently building my first year projects in Python and Bash—stay tuned!)*
+
